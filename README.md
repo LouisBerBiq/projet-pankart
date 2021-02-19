@@ -4,7 +4,7 @@ This repository is for me to store relevent files and links for this project, it
 
 ## Links
 
-- [**moodboard**](https://app.milanote.com/1Ld0xc1VMS4p2t?p=lDBOsbb3mC7) (a local version of the file will be available here once finished)
+- [**moodboard**](https://app.milanote.com/1Ld0xc1VMS4p2t?p=lDBOsbb3mC7) (a local version of the file will be available in this repo once finished)
 
 - ~~[**design**](#)~~
 
@@ -12,5 +12,3 @@ This repository is for me to store relevent files and links for this project, it
 
 for more informations about this project : 
 [GitHub - hepl-dw/projet-pankart: Description, assets and other information for a school project @ HEPL, Liège, Belgium](https://github.com/hepl-dw/projet-pankart)
-
-
