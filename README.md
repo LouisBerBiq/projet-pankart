@@ -1,6 +1,46 @@
-# projet-pankart
+# Projet Pankart
 
-This repository is for me to store relevent files and links for this project, it is being worked on during the current academic years (2020-2021) at the HEPL from Liège, Belgium.
+> This repository is for me to store relevent files and links for this project, it is being worked on during the current academic years (2020-2021) at the HEPL from Liège, Belgium.
+
+---
+
+## I. Présentation
+
+<img src="file:///D:/Ecole/2020-2021/Web/DW/TD%20TP/projet-pankart/ressources/PanꓘartS.webp" title="" alt="..." data-align="center">
+
+aaa
+
+
+
+**<u>Retrouvez Pankart ici :</u>**
+
+1. sites principaux :
+   
+   - [Gigstarter](#)
+   
+   - [Youtube](#)
+
+2. réseaux sociaux :
+   
+   - [Facebook](#)
+   
+   - [Instagram](#)
+
+3. music streaming :
+   
+   - [Spotify](#)
+   
+   - 
+
+
+
+#### II. Public cible
+
+...
+
+
+
+## III. Plan du site
 
 1. <u>Le concept (les styles)</u>
    
@@ -10,9 +50,17 @@ This repository is for me to store relevent files and links for this project, it
    
    - <u>nav</u>
    
-   - news (blog style)
+   - news 
      
-     - agenda des évènements à venir
+     - time line (blog style)
+       
+       - agenda des évènements à venir
+       
+       - petite image + texte descriptif pour chaque post
+     
+     - coups de gueule
+     
+     - presse
    
    - bio (basiquement une page par membre)
    
@@ -50,7 +98,7 @@ This repository is for me to store relevent files and links for this project, it
 
 ---
 
-## Links
+#### Useful links
 
 for more informations about this project : 
 [GitHub - hepl-dw/projet-pankart: Description, assets and other information for a school project @ HEPL, Liège, Belgium](https://github.com/hepl-dw/projet-pankart)
