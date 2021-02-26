@@ -6,9 +6,12 @@
 
 ## I. Présentation
 
-<img title="logo Pankart" src="./img/PankartS.webp" alt="logo Pankart" data-align="center">
+<img title="logo Pankart" src="./img/PankartS.webp" alt="logo Pankart" data-align="center" width="153">
 
-aaa
+Le groupe Pankart est un groupe de musique Rock Celtique belge, 
+ils sont <u>engagés</u> et <u>dénonciateurs</u>.
+
+Le premier album, sorti en...
 
 
 
@@ -38,9 +41,8 @@ aaa
 
 #### II. Public cible
 
-...
-
-
+Le groupe Pankart fait de la musique pour tout public confondu, 
+PAS SEULEMENT LES 12-13 ANS !
 
 ## III. Plan du site
 
@@ -96,7 +98,7 @@ aaa
 
 5. [**moodboard**](https://app.milanote.com/1Ld0xc1VMS4p2t?p=lDBOsbb3mC7)
 
-6. ~~[**design**](#)~~ (not yet)
+6. ~~[**design**](#)~~
 
 ---
 
