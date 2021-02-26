@@ -6,7 +6,7 @@
 
 ## I. Présentation
 
-<img title="logo Pankart" src="./img/PankartS.webp" alt="logo Pankart" data-align="center" width="153">
+<img title="logo Pankart" src="./img/PankartS.svg" alt="logo Pankart" data-align="center" width="823.750px">
 
 Le groupe Pankart est un groupe de musique Rock Celtique belge, 
 ils sont <u>engagés</u> et <u>dénonciateurs</u>.
@@ -15,7 +15,7 @@ Le premier album, sorti en...
 
 
 
-**<u>Retrouvez Pankart ici :</u>**
+##### **<u>Vous pouvez retrouver Pankart ici :</u>**
 
 1. sites principaux :
    
