@@ -6,7 +6,7 @@
 
 ## I. Présentation
 
-<img title="" src="../img/PanꓘartS.webp" alt="..." data-align="center">
+<img title="logo Pankart" src="./img/PankartS.webp" alt="logo Pankart" data-align="center">
 
 aaa
 
