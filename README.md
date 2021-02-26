@@ -6,7 +6,7 @@
 
 ## I. Présentation
 
-<img src="file:///D:/Ecole/2020-2021/Web/DW/TD%20TP/projet-pankart/ressources/PanꓘartS.webp" title="" alt="..." data-align="center">
+<img title="" src="../img/PanꓘartS.webp" alt="..." data-align="center">
 
 aaa
 
@@ -16,19 +16,21 @@ aaa
 
 1. sites principaux :
    
-   - [Gigstarter](#)
+   - [Gigstarter](https://www.gigstarter.be/artists/pankart)
    
-   - [Youtube](#)
+   - [Youtube](https://www.youtube.com/channel/UC7XhVCykTsQEJp6P0eTVfmQ)
 
 2. réseaux sociaux :
    
-   - [Facebook](#)
+   - [Facebook](https://www.facebook.com/PanKart/)
    
    - [Instagram](#)
 
 3. music streaming :
    
-   - [Spotify](#)
+   - [Spotify](https://open.spotify.com/artist/4pCCFM2BXTOekMx1RksIkf)
+   
+   - [Soundcloud](https://soundcloud.com/pankartband?utm_source=embed&utm_medium=icon)
    
    - 
 
