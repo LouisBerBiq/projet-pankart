@@ -75,12 +75,6 @@ PAS SEULEMENT LES 12-13 ANS !
      
      - une page par membre
    
-   - merch (doit être désactivable)
-     
-     - promotion d'un projet / d'une cause
-     
-     - form (pour achat)
-   
    - galerie
      
      - photos, videos, etc...
@@ -90,6 +84,12 @@ PAS SEULEMENT LES 12-13 ANS !
        - lyrics
      
      - (pankart clicker)
+   
+   - merch (doit être désactivable)
+     
+     - promotion d'un projet / d'une cause
+     
+     - form (pour achat)
    
    - contact
      
@@ -119,7 +119,7 @@ PAS SEULEMENT LES 12-13 ANS !
 
 5. [**moodboard**](https://app.milanote.com/1Ld0xc1VMS4p2t?p=lDBOsbb3mC7)
 
-6. ~~[**design**](#)~~
+6. [**design (wireframe)**](https://louis868026.invisionapp.com/freehand/wireframe-7jAmuXK8C)
 
 ---
 
